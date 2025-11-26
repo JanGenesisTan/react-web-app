@@ -1,0 +1,18 @@
+.upcoming_grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: #FFF;
+  padding: 30px;
+}
+
+.upcoming_header {
+  background-color: #FFF;
+  padding: 100px 0px;
+}
+
+.upcoming_header h2 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  color: #db4439;
+}

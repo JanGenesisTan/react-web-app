@@ -1,0 +1,18 @@
+.concession_grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: #FFF;
+  padding: 30px;
+}
+
+.concession_header {
+  background-color: #FFF;
+  padding: 100px 0px;
+}
+
+.concession_header h2 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  color: #db4439;
+}
